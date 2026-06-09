@@ -110,3 +110,4 @@ To build a secure, scalable, and innovative social media platform that enhances 
 
 ## 📄 License
 This project is developed for academic and educational purposes.
+Copyright (c) 2026 HI HUB Team
