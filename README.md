@@ -1,4 +1,3 @@
-﻿# HI - HUB Project-X
 # HI HUB – India's Leading Social Media App
 
 ## 📱 Project Overview
