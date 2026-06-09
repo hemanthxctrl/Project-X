@@ -23,22 +23,46 @@ The platform provides:
 
 ## 🛠️ Technology Stack
 
+## 🛠️ Technologies Used
+
 ### Frontend
 - React Native
+- JavaScript (ES6+)
+- React Navigation
+- Redux / Context API
+- Axios
 
 ### Backend
 - Node.js
 - Express.js
+- RESTful APIs
+- Socket.IO
+- JWT Authentication
 
 ### Database
 - MongoDB
 - Redis
 
-### Cloud & Security
-- AWS Cloud Services
+### Cloud Platform
+- Amazon Web Services (AWS)
+  - EC2
+  - S3
+  - IAM
+  - Lambda
+  - CloudWatch
+
+### Security
 - AES-256 Encryption
+- HTTPS
+- JWT
 - Two-Factor Authentication (2FA)
 
+### Development Tools
+- Git
+- GitHub
+- Visual Studio Code
+- Postman
+- Figma
 ---
 
 # 👥 Project Team
