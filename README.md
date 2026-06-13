@@ -13,26 +13,11 @@ The platform provides:
 - Cloud-based scalable architecture
 
 ## 🚀 Key Features
-- Attractive and personalized feed
-- Real-time messaging with end-to-end encryption
-- User privacy controls and 2FA authentication
-- AI-powered photo and video editing
-- Stories, posts, reels, and content sharing
-- Dark/Light mode support
-- Cloud deployment on AWS
-- AES-256 data encryption
+
 
 ## 🛠️ Technology Stack
 
 
-| Category | Technologies |
-|-----------|-------------|
-| Frontend | React Native, JavaScript, React Navigation, Redux/Context API, Axios |
-| Backend | Node.js, Express.js, RESTful APIs, Socket.IO, JWT Authentication |
-| Database | MongoDB, Redis |
-| Cloud Platform | AWS EC2, AWS S3, AWS IAM, AWS Lambda, AWS CloudWatch |
-| Security | AES-256 Encryption, HTTPS, JWT, Two-Factor Authentication (2FA) |
-| Development Tools | Git, GitHub, Visual Studio Code, Postman, Figma |
 
 ---
 
