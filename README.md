@@ -12,12 +12,6 @@ The platform provides:
 - AI-powered content editing tools
 - Cloud-based scalable architecture
 
-## 🚀 Key Features
-
-
-## 🛠️ Technology Stack
-
-
 
 ---
 
